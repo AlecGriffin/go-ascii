@@ -1,1 +1,1 @@
-# go-ascii
+# go-figlet
